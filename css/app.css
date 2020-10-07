@@ -1,0 +1,28 @@
+body{
+    background-image: url('../img/đọ.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h1{
+    color:blue;
+    font-size: 50px;
+    font-family:"times new roman";
+    font-weight: 400;
+    line-height: 50px;
+    text-decoration: none;
+    text-transform: uppercase;
+    /* lowercase capitalize */
+
+}
+p{
+    font-size: 16px;
+    line-height: 1.5;
+    color: black;
+    width: 600px;
+    text-align: justify;
+    background-color: palegoldenrod;
+}
+img{
+    max-width:100%;
+}
