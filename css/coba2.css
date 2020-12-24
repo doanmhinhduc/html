@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    text-align: center;
+     max-width: 600px;
+}
+.row{
+    background-color: #cdecf5;
+}
+.bot{
+    text-align: left;
+}

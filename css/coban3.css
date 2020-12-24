@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.header ul li{
+    display: inline-block;
+    padding: 30px 20px;
+}
+.content{
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: 400px;
+    padding: 10px;
+}
